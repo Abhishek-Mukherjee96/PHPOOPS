@@ -1,4 +1,4 @@
-<!-- abstract class -->
+<!-- abstract class concept-->
 <?php
 abstract class parentClass
 {
